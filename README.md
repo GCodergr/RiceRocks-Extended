@@ -1,4 +1,4 @@
-# RiceRocks-Extended
+# RiceRocks Extended
 
 Based on 'Introduction to Interactive Programming in Python' Course
 RICE University - coursera.org
